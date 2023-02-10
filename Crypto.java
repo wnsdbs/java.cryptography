@@ -6,7 +6,7 @@
 * Note: You should call lettersOnly at the beginning of every method.
 *
 * @author Daniel Yoon
-* @version 1.0
+* @version 2.0
 */
 public class Crypto
 {
