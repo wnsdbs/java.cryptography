@@ -2,6 +2,6 @@
 README.txt
 --------------------------------------------------------------
 PROJECT TITLE: Cryptography
-VERSION or DATE: v2 ,(11/14/2022)
+VERSION or DATE: v2, (11/14/2022)
 AUTHORS: Daniel Yoon, APCSA23
 --------------------------------------------------------------
